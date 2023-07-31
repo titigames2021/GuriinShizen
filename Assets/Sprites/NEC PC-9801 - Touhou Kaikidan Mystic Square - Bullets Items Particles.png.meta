@@ -1,0 +1,6063 @@
+fileFormatVersion: 2
+guid: d89ee9be31be6b8499a90d1f86543cc1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a24756d6ba134295dc82629f50517
+      internalID: -897287448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d723846218ee4ab599f3e442a8003
+      internalID: -399844121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 400
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da505cc5d590e634a92b19105696e4f2
+      internalID: 803392355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 400
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39ee8ba77bd6bd44a552d392f4233fe
+      internalID: 132498071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 425
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9fb8ed9c400f24c86e57e78aa37469
+      internalID: -35046659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 400
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f83648c67f50948a40102b55d949e2
+      internalID: -244607170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 409
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38784b481e263044ab74bbf5cb1536b2
+      internalID: 400500376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c71c241301bf4a8bc9c06ec0453ac
+      internalID: -1118145467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 395
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd90ea55652c7a4e94884b818ec6e77
+      internalID: 493697161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 392
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d5f685bbd633458a69e7223b76512
+      internalID: 1317268970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 395
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04742990b591704d9631542e17bf470
+      internalID: -2060614456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c463e354627dc84a92005235c63c3af
+      internalID: -497071737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_12
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 370
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47350dbfaf9daf5498e90154c12c3ef4
+      internalID: 15922271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 372
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87609f7714cf5e84ea18225b86bffc5b
+      internalID: -1635985593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1d353aba5a644ca23762abccfd385
+      internalID: 1644129444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 370
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33aa92a5882957498dc596abda56ea6
+      internalID: 1163434029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 369
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa842bfbf2ee22141b51be9ab7ddcc31
+      internalID: 1411314243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 374
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5d64b1c05e7a5409309ea85cad747e
+      internalID: 1259874655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 368
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d3b79d2fdb21848a2247d3204295b0
+      internalID: 1391974007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 372
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1aeac186f5fd94cb3160d757f1d0ad
+      internalID: -1777678261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 368
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ee21ca6c9f18543b8abaaba7ef6be0
+      internalID: -958275797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 371
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338fa3a7da92a74c858f698f8461251
+      internalID: -27426422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 368
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868bfd984a92a5b43a2c1e9785d7e2c2
+      internalID: -1413989621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 369
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4f23cc3fab8e4cae53b9d8d879583
+      internalID: -2121990128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 368
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c138a3dac46034eb021ed9933f65e1
+      internalID: -1076217971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 368
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484bbbf840a47a439d55e2dad1ce11e
+      internalID: -963677840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 368
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad4ed203262d7645994ed06870b626d
+      internalID: -843965454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 368
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca3998b2211baa45ae4189193a7b93a
+      internalID: 821273300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 369
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b142d4834884554c9a71236c8c05688
+      internalID: 435089795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 368
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437caeda6eaf034cbfcd86550051a24
+      internalID: -1391816300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 371
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccd11d059c737a44a47515f5aecb67b
+      internalID: 89325524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 368
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171c125dddcf58449bc24ec971b4d948
+      internalID: -1042116462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 371
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a99f2abeb6230d468bbd91dd486ac03
+      internalID: -661049322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 368
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba220acd2c102ff41aeb2d96154717c4
+      internalID: 349125977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 372
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1400c2fbd97be49abfe521858f683a
+      internalID: 949679738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 368
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26ab0bc5e1fb843a3c55ef7f42b480
+      internalID: -1371350607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 374
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e066b3dbfb67b4f8f66d80bcee96a1
+      internalID: 1918704863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 369
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cbac64e0db43741bc41c6899a1e4a6
+      internalID: 2097803246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 370
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b44d8c60cecf4f9a034b77155106b
+      internalID: 328032327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_39
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d1a4849d5a6e458c0cc8ecec6f9bb
+      internalID: 2038418457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebf231626ab8e4cab93d72155c095d
+      internalID: -1971890201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 370
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e85acc3717434d4ebe552047de818cd
+      internalID: -92379061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546aedbe8efb996459466d2c6fc027ee
+      internalID: -1025307594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 346
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12ea1fd78aef284d924f3b919cb9db8
+      internalID: -873635519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 346
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992faa53024c16c41987285e802bf48a
+      internalID: -1748178056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 346
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f458972c524dff94eb13a91943e1db60
+      internalID: 526765476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 345
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908197b2c58320d4ba9712be9129a33f
+      internalID: 1055590079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 345
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5ee29418eae814483c2e04f0e7ae96
+      internalID: -2134201210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 344
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f80e7ab83b0104191e13293ab6c5a6
+      internalID: 333790739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 344
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de19087d50ec742abc247df20228d4
+      internalID: -414032460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 344
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f2ffc13894d84ab96f321cf8cbfed
+      internalID: -1504402658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 345
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fd3ffb22c73da469032cc0304790f3
+      internalID: -1139473593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 345
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c0b5111da12d4c8810176064b9323
+      internalID: -1974663014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 346
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49af632d02fcd4e409ab88c1252de8e7
+      internalID: 742349222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 346
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d8df2a114c9c44902af9c47a34323
+      internalID: -185414470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 346
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cdda775b92c1c47a5866be561ff2ce
+      internalID: -58313077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 347
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985a1b3e091ded94a9896db91a2e6185
+      internalID: -1523440034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_57
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 338
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac7b788c7492f8488c3fbd2528cbcff
+      internalID: -653831061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_58
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 340
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3770d2cd20854889d3e545ed7cc91
+      internalID: 1540332920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_59
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 343
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612a65a3d5e96742bfb1ad79e8d4a69
+      internalID: 334233990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834c32753bbbd94894d8522df97ce53
+      internalID: -1196274426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 323
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991ea1c68d93cd64a99a6bf114d00347
+      internalID: -1757472186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 323
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb5a389f85fee49a3ebaa454f0158e
+      internalID: -222155296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da69f04953a7a42a581ad17e4e52f9
+      internalID: 865305444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282849f536ad86244a0145078b7123d2
+      internalID: 913917109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781eaeb38df8744ea18ecddfb4b2346
+      internalID: -1178543395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 321
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834ec78acef71b546957190c46537d78
+      internalID: 321807598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d832ba08028bdfd4a983f564627471fa
+      internalID: 1275713669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 321
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764027d10d2518429aac43959e2b715
+      internalID: 531660435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_69
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 321
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6b4e17c304a8f47bde19784bbf8706
+      internalID: 1834762507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 321
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf151a8e658694f428da31c015f1cc76
+      internalID: -1385376959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77885d509e0c60945a83f320296846c6
+      internalID: 1045401793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e3b6f2f8bd4e4d8ad928c4c445e1c
+      internalID: 1248851528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 323
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120c42b1840db5941844fa1d67223ef9
+      internalID: -1343156522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 321
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdc89b46ce47494da04e1f308509c6d
+      internalID: -84882374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b22899a952ec941942975c7e54ae0d
+      internalID: -1317694890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 320
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4f204c4f5cc3d47a044684a28e217b
+      internalID: 1130781242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_77
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5207e8c13971c9e438281e3ef64c57e3
+      internalID: 1016843994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_78
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 320
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f064e70a5dc464091b4add0ab459e0
+      internalID: 626577690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_79
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 320
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06910f3d556c7cb498ab327431185b97
+      internalID: 261829323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_80
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4b439d00cecc4fb1481b10255c32e
+      internalID: -1308025478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_81
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e390101c04dfc45a72e6fa72e80a04
+      internalID: 1738601390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8234e72ccc196a438ebca1f71cfdd28
+      internalID: 978488791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_83
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 320
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e89276303c3e24409979456fc35a3ca
+      internalID: 716093265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_84
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 320
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6a337afe83ff64a8840407c5e23617
+      internalID: 1861191485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db69f124fe8944d9144e66f1eebf6c
+      internalID: -1666546131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09fedec7102ff54190986a78c9438f5
+      internalID: -1438861884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d8b7068a1767418b778f89ca68bc3
+      internalID: -707098008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefb313d98f71884dbe892bfd3feb0ea
+      internalID: 1892266775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 297
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3f9147cf10268479055c03bfa565d1
+      internalID: 2000423801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423af1300cc2834d85989b7b00727b1
+      internalID: 858917342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_91
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 296
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b93b347aaf771c4ab42b64c5c707006
+      internalID: 195438296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_92
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed425b3a737e5f49852c201f08a2abe
+      internalID: -976099940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_93
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55858301e25b8c4c9ffffcc677cb95f
+      internalID: -529062168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_94
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 296
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da76cd75f41ddfc4ebbcb2f9e65bb3c2
+      internalID: -248986274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_95
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe9e73ea18617d4b8594eced89b2bac
+      internalID: -1396376484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591d7f81e8165649a3b24c963b40460
+      internalID: -1768859211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_97
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 296
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39378186c87df8d4fadcafc00aa17ccf
+      internalID: -923074448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_98
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d9ce7bfb3a78546a4eab5df52215b2
+      internalID: 1968962810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 297
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8585ba27ea9ae542a6b6635fd58bd3f
+      internalID: 407213629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 298
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda3062a463dfa04b8a59739e90d9bc2
+      internalID: 661625817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 299
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998e6b201919dbf40a672887e620bf78
+      internalID: 1150156666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_102
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 298
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd97ee0c5bdf63e4cbb88d176189c8d7
+      internalID: -1228541424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_103
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 298
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fbdef3b2d2c3741abd552f3dc5250d
+      internalID: -1605380343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cce6bcb2caa324385e41f9786976a5
+      internalID: -560596549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_105
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbecfa2aab38ad45855e87c5b0d6464
+      internalID: -1009387508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_106
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c346bae8028f9354aa3d1b8db5e05ab4
+      internalID: 877806789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_107
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 296
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09640c45f72a75f46ac28051648b6486
+      internalID: -853959097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_108
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6553203445ec0459d2c214245dde39
+      internalID: -483798882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_109
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd8c6bd37358ca4f9106fd0db7a6615
+      internalID: -949465766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_110
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 296
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cc60da87496204aa91cf82d4751a31
+      internalID: 825388834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_111
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 298
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c123f392c5abf4eaedd3c01d55e1e9
+      internalID: -223466737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 298
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c129eee709acb324fae4435fe518b687
+      internalID: -75086375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_113
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 299
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001d1c9c0a3435d47a11e6015166261a
+      internalID: -2008526258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_114
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 299
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e68e4f3fecfc30438933f1e70af7eec
+      internalID: 219356994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4cbb9474fe6c24586212bb81af4a41
+      internalID: 1966419726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_116
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7308394f6f162408b3ad2739de22d7
+      internalID: -1484790491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_117
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 274
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2558aba96a35545b914c22067665c1
+      internalID: 161633995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_118
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7555affb96faf4049be80575b1179b5b
+      internalID: -20338596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_119
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 276
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca96e6275b668f44b59d04b1673cd22
+      internalID: -163921751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec33036044d884da62319732262abc
+      internalID: -744798656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 273
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2335c820d550fa4e88857e330d013b2
+      internalID: 1162398787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_122
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 274
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e446d18c4a0bab94fb446f471042289f
+      internalID: -20918768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_123
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 274
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e9fe9e56149847b5c49554aa8d2a3
+      internalID: -358036834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_124
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 273
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0165d59c97ac419c43a24f5b19d67
+      internalID: 466450418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_125
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 273
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd904648503804b87cd7d4d0c8fb8a
+      internalID: -1572164450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_126
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808cfe87ba11c5644a290a4cd3127aad
+      internalID: 1885996634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_127
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 272
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da837b0d756444a9abe541748bda2e
+      internalID: -1168493028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_128
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 278
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42ab31d7d4802245be332242985bae3
+      internalID: 435254203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_129
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df187272e7f79c48aeaef388759d4fb
+      internalID: -540454129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_130
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282d6b8254a56be4cb08e864ac5c5e79
+      internalID: -1376090135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_131
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 234
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c6db745e3d56409a96118dd81d63f
+      internalID: 918363989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_132
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 236
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7878c10ea235dba47920beefef31a9a9
+      internalID: 474887260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_133
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 238
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27699a62b42802740a5cc23af6ebc1ae
+      internalID: 769410854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_134
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 236
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d788e38e94bf846964fbf069393a83
+      internalID: -1919829986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_135
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 234
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643996d823401af4fadcd374ce981380
+      internalID: -99670869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_136
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 234
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381730c5693724449b806ca6593db03f
+      internalID: -219912351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_137
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 234
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef105c405a9844894587b92822c791
+      internalID: -929072632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_138
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 234
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44db8d96bb682f408c6517b5d17de38
+      internalID: 938830529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_139
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 234
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71784e3e86723748ac61b4ea34153f6
+      internalID: -1733192227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 236
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e895cc6e706484f86d744f03375c62
+      internalID: 886876725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_141
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 238
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b817e093121b4a24ba7d1f1f9e587c2f
+      internalID: 953131824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_142
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 236
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3ef0fea1ede84c835aaf3d7efe27e
+      internalID: 1683318938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_143
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 233
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea82dff9a494bf47b4d3dd4b5b2286f
+      internalID: 1560546343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_144
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 233
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d430b8bc43c16b14c9e33f40b2ed38e2
+      internalID: 1180655050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_145
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 233
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302d9268cd8e5a478d6989c10b5b200
+      internalID: 801531963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_146
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 233
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50348aa79351c3a4eb0c3fab1f7cfc9b
+      internalID: 1987373599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 202
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f1eda52a81234ea592ac9a41db415
+      internalID: 1123743199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_148
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 201
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b820caff37d751d4d9557664af7c0d57
+      internalID: 613306215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_149
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 201
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add29b53f26fc3e4ebc9ca974caa9c36
+      internalID: 175919551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_150
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 199
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555ae01faa63d714fbc9f4895cc54fab
+      internalID: 565491909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_151
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 197
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03796c361c5c845b96f2555555e0ce
+      internalID: 1718114185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_152
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f68a221be27434185d5df28e97ec9c
+      internalID: -1383627625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 194
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6e478b5d8aa5845ae821455894f327
+      internalID: -54408054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_154
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 194
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf50ed5c1c93045a5005e4dd1fe32f
+      internalID: -230549044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_155
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 193
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3172fd74118ffe4dac33e55d72fd44c
+      internalID: 903014874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_156
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 193
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c519fcf62eeb0649a669309d60b1d89
+      internalID: 1127736953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_157
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 194
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8907981e7b082040893cd4b64536c35
+      internalID: 224973059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_158
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 195
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef1cc4698739ec409739300784e16f8
+      internalID: 167154208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_159
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 196
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e00e4b15886c9547bb02e28bb3d6206
+      internalID: 935781490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_160
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 198
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69770ad69ce908e4c8a78937ae13e16f
+      internalID: -1088347823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_161
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 200
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d73645c3844f2408a909d8bf70ca4e
+      internalID: -1443911912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_162
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 201
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad39995285ce944bd54bcff8f5c5f2
+      internalID: -317748076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 170
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42917aac3a2f3d349bad7a10cfee12f6
+      internalID: 1184079734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_164
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 167
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1033cf29f9952b4586371d08ba6ed62
+      internalID: 1243262467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_165
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 167
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40846e2cee4a7414887f8dd7d05079fe
+      internalID: 922628319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 166
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91228216d5d41ff4ab105dec3be3cc15
+      internalID: -212530519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_167
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 164
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc095e9e5698243ab4ac4bca1a4403
+      internalID: -508687357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_168
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 163
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d87ecc6b7c6724b8762b53ba21bfb4
+      internalID: -261985074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_169
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa25880b9456564bacde0decab9fe02
+      internalID: 1727930479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_170
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 161
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d1e4e7270ab4e44b4e3474e6eff2fc
+      internalID: -830227877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_171
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 161
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b8c726c66295e41b90b13defdfae3c
+      internalID: -1917617081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_172
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 162
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fef2e53387c1254f97e1a71ff392f5a
+      internalID: -1929430226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_173
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e01daf49f1054459d74cc6524b1ddd
+      internalID: 462767764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_174
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 163
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c16f155a4b0a4894c154bc2652370
+      internalID: 555613904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_175
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 164
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708bae8a0252bd41baaf720cc7c73a8
+      internalID: -133639131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_176
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 167
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acf6b73a79d7fe48906c8c8a66f7288
+      internalID: 1583232402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_177
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 168
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e1c3517cd9416429869140ccee586a
+      internalID: 1445088366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_178
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 169
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdd31b6e7a514c4cb9c491e59c4b8a2
+      internalID: 1947826790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_179
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f857165a2a2a542956fa9aac6ba638
+      internalID: 1025524567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_180
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e5d5de517f0724b8b099b7811011d6
+      internalID: -528510876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_181
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d0b939dc155b4b9e3cda170eb9178
+      internalID: -561954651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea71b61607d0fb4a9e96f8640d8a7aa
+      internalID: 2133583538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_183
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e005588d1c4b84c8b0e773283af3e3
+      internalID: 2113917721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_184
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c931e82f10024b9ef5b8b4b8fd5d9
+      internalID: 121730239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_185
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed84ec84db330f44e90b78724eb6872b
+      internalID: 468278857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af93961a9e3b3439537feb4c4c9c8e
+      internalID: 311750098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65899238661ce1a4d8de8c031de62339
+      internalID: -1864767488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_188
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 74
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256b9337d45ba1e4ebcd173a1d696364
+      internalID: -837799920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_189
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 73
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645c9371584564049856c3f05c4f1ff1
+      internalID: 616509963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_190
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 73
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe27a1c1025e22945a54c2bdf7b0de72
+      internalID: -1821027867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_191
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03cd90559666a498119e261af686bc
+      internalID: -1782734159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_192
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 72
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5479adb8c5283e4e9ce08be78dc0836
+      internalID: -1593599626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_193
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb5fd58fabce734aa9375226e33b591
+      internalID: -731136099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_194
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 72
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4513ae02c13704fa60390b09d5dfe3
+      internalID: -2123997289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_195
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 72
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71d3d27babe53459c46e5962612c5a
+      internalID: -1873495875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_196
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 73
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251545e12a2807b4b8291007fed7ff44
+      internalID: 1571169896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_197
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 73
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e6e0bc324bf77439ef7a2d364d8fd0
+      internalID: 1899273775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_198
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 74
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89fa8b8063141f46b17a5f57e693e5b
+      internalID: -1424655569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_199
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 74
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb82c6d6a6e6554abf60fccb708c657
+      internalID: -1819756705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819073c610107dc439606419f136313f
+      internalID: -601351839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_201
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb5e5ca9489a6647ac9a108eaec614f
+      internalID: 763324179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_202
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f83512178d9a834793d2da9be2ba0d6
+      internalID: 285786018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_203
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52042fb17045b9f4098201300e6304ab
+      internalID: -885022906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_204
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 49
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4273cd7fcef044ca9308b65b4e95fb
+      internalID: -1447202099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_205
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d269dd6c706c68419543f5a8a207ff4
+      internalID: 2087328555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_206
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 48
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4843699083ce574b80255ef55208d98
+      internalID: -1253299164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_207
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512828d779736ea4a9f40282c16a0e54
+      internalID: -1125644328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_208
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6972107d86cb046a4a8b0e98165142
+      internalID: -1057448507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_209
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 49
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4034418adb2c9c2498123e79fbb898bd
+      internalID: -12341389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_210
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 49
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95748c77b0f386a49b07bb546215fb00
+      internalID: 1504842597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_211
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79bf1b73d8437b419ce9dbee6cbd410
+      internalID: -1724234124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_212
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5213f96e09b2f49a2d12a0b27162bb
+      internalID: -1017885583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_213
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 50
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205728ab6e7673447940faecd3a54685
+      internalID: 44296226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_214
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 51
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40c718bfeb234c4c8d1a17399f8a97d
+      internalID: -1303258173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5c9f1865b994c438d6852878694114
+      internalID: 1139677526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_216
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 26
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8098f643317c4c8428fe938c027f1127
+      internalID: -620244295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_217
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 26
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9d30296ab00944fb91d256b03a820f
+      internalID: -982797030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_218
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 26
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b740df83a0080947af123f36e9dfc47
+      internalID: -422863778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_219
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcc7d667f662b5498d97f7ff9cc788f
+      internalID: -1421049233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_220
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5db4f9f5e4c7e41a5af0c065f9ec20
+      internalID: 1283913994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_221
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 24
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3867ba94cda38244ebf89c09a2d54c36
+      internalID: -1335320025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_222
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc953b625208a5429f63c458aff645d
+      internalID: -1075170625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_223
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 24
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b866e00e2aa5dd4498e6351baab7c63
+      internalID: 2091665844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_224
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1c00dd33c47994abe7c85e0ab548cf
+      internalID: -622518486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_225
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 25
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b370b0ed850c4ba80d92bd06f1382
+      internalID: 105665724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_226
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 26
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da6c9aa7d3c744b8ecc7b2c067dbaf
+      internalID: 2101419512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_227
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 26
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40fe71f2d5346c45a1ae191fe42822a
+      internalID: 1088272067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_228
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 26
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1662669284982247bc9eaddc8d3824a
+      internalID: -597083615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 27
+        width: 63
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80797daa7807b742b72f8f016932144
+      internalID: -1694288755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_230
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 27
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b912e33ee75197b43ab8eeba9538167e
+      internalID: 1297297263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_231
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 26
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538df57d00ee45345bd1bf80e13d48ff
+      internalID: 329374390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_232
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 25
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f023c85eb8191644b952e8b8380dd53
+      internalID: -1535679657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_233
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 25
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5903f85e769da3c4a88e2324121cd29a
+      internalID: 524101317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_234
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 24
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41a952be26adb4f88f82c5b41558ac
+      internalID: -1029301015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_235
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 24
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c59b33c5e65b45ad78bc18f56bc7d
+      internalID: -1519335789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_236
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 24
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074a8d8e32b1904fb0fa4dc3e4e1774
+      internalID: -307414918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_237
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 25
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1085828bbe1974583006a73a16950a
+      internalID: -325078400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_238
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 25
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdc1acd30253214fbe3c24d6b0b5602
+      internalID: 943577204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_239
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 26
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75de63950c5021a45b94a4a1d0be5c1b
+      internalID: 2024946271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_240
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 27
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e439c378142e3d649a83a4e6f50a67ab
+      internalID: 1136247717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_241
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 27
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7c164f7f38b09498ede5b7e3b9149c
+      internalID: -662141626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b3fe7ec8ff6d49a520506449ac5e0
+      internalID: -737713015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_243
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d89d23f15ae04e947507bf901350b
+      internalID: 499510786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f63f3a18f285b478788c8e4bd83273
+      internalID: -1770279471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_245
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfda5599073b5842896d1d71d82826d
+      internalID: 1885872303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_246
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b414f1dcdf524cbafbb12f5d8820e
+      internalID: -1197286919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_247
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee48585a159739499b2f1f87bd9a458
+      internalID: -1259987167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_248
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2fce418b0b06548bcf340ed49a9b85
+      internalID: 1854435992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_249
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb8ac50c90319469e5b62cabbf920a
+      internalID: -1408467254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_250
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61488173643fe834aa05c52f91b49b7d
+      internalID: -580755021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_251
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9860983ee67b75b48a7f56ed883cd1a0
+      internalID: -312647165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_252
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08060174923f33a41862c85b44c6001d
+      internalID: -1559441728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_253
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2402f9ad02dc247b85840d69942430
+      internalID: -1352180788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_254
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d598a7babe2fec40ba258f53274ba8c
+      internalID: 1978013034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_255
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b05a377ba20ec40ba3c1af9ada0b2f
+      internalID: -202046887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_256
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7eed25d20352d4cac25f3da5638096
+      internalID: -1895481775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_257
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6f5fa5691ad348a32ee3c41fb546d
+      internalID: 819415744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_258
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9383b6244f3f10e4086db41802a7c2e0
+      internalID: -1740499175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_259
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e941f2b645d52144bb42f163674abe69
+      internalID: 1786204075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_260
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db62b97d75a479418669621ad48611c
+      internalID: 345919007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_261
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0a251704c6fb4da03d352dfc7b241
+      internalID: 1032444133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_262
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f28dcc10ff2f946b948b33c4dbb093
+      internalID: -1086194980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_263
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b4644173ba7664993e149fe458ea60
+      internalID: 265203132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_264
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44ad30c20545b4e847d9ea02d0c94d
+      internalID: 1275381972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_265
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6a7d4546c961441895e1b930985e9a
+      internalID: 1428447801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_266
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e4bb9534aac54a837b53223005eeb
+      internalID: -1575557918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_267
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e74c9bb6db5e247a2d92eaced630ca
+      internalID: -799377092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_268
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71302e6995596c347aa39a1a2ace9166
+      internalID: 1332704043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_269
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d2701772d9e241aad11af5c363988
+      internalID: -989187952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_83: 716093265
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_110: 825388834
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_179: 1025524567
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_6: 400500376
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_24: -1076217971
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_68: 531660435
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_35: -1371350607
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_234: -1029301015
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_147: 1123743199
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_237: -325078400
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_25: -963677840
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_42: -1025307594
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_41: -92379061
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_97: -923074448
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_34: 949679738
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_23: -2121990128
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_99: 407213629
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_198: -1424655569
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_62: -222155296
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_269: -989187952
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_40: -1971890201
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_127: -1168493028
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_212: -1017885583
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_196: 1571169896
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_67: 1275713669
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_106: 877806789
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_177: 1445088366
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_246: -1197286919
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_88: 1892266775
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_206: -1253299164
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_89: 2000423801
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_22: -1413989621
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_87: -707098008
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_122: -20918768
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_241: -662141626
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_265: 1428447801
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_86: -1438861884
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_258: -1740499175
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_75: -1317694890
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_15: 1163434029
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_61: -1757472186
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_182: 2133583538
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_9: 1317268970
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_3: 132498071
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_113: -2008526258
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_57: -653831061
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_31: -1042116462
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_223: 2091665844
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_27: 821273300
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_80: -1308025478
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_263: 265203132
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_21: -27426422
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_81: 1738601390
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_94: -248986274
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_117: 161633995
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_103: -1605380343
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_173: 462767764
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_181: -561954651
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_203: -885022906
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_152: -1383627625
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_252: -1559441728
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_268: 1332704043
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_257: 819415744
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_218: -422863778
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_92: -976099940
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_114: 219356994
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_226: 2101419512
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_199: -1819756705
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_128: 435254203
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_33: 349125977
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_74: -84882374
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_248: 1854435992
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_59: 334233990
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_79: 261829323
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_142: 1683318938
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_164: 1243262467
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_141: 953131824
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_220: 1283913994
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_261: 1032444133
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_19: -1777678261
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_36: 1918704863
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_215: 1139677526
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_63: 865305444
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_91: 195438296
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_193: -731136099
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_132: 474887260
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_158: 167154208
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_149: 175919551
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_207: -1125644328
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_7: -1118145467
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_13: -1635985593
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_14: 1644129444
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_120: -744798656
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_232: -1535679657
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_253: -1352180788
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_242: -737713015
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_66: 321807598
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_201: 763324179
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_39: 2038418457
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_58: 1540332920
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_180: -528510876
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_245: 1885872303
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_264: 1275381972
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_137: -929072632
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_115: 1966419726
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_98: 1968962810
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_100: 661625817
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_11: -497071737
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_107: -853959097
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_46: 1055590079
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_90: 858917342
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_167: -508687357
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_16: 1411314243
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_209: -12341389
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_146: 1987373599
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_165: 922628319
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_194: -2123997289
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_221: -1335320025
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_140: 886876725
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_45: 526765476
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_262: -1086194980
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_1: -399844121
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_224: -622518486
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_216: -620244295
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_238: 943577204
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_30: 89325524
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_104: -560596549
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_225: 105665724
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_151: 1718114185
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_17: 1259874655
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_20: -958275797
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_52: -1974663014
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_8: 493697161
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_144: 1180655050
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_51: -1139473593
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_72: 1248851528
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_69: 1834762507
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_65: -1178543395
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_188: -837799920
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_70: -1385376959
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_134: -1919829986
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_169: 1727930479
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_172: -1929430226
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_214: -1303258173
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_244: -1770279471
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_119: -163921751
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_154: -230549044
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_78: 626577690
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_168: -261985074
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_267: -799377092
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_121: 1162398787
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_171: -1917617081
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_211: -1724234124
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_187: -1864767488
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_197: 1899273775
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_5: -244607170
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_116: -1484790491
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_163: 1184079734
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_53: 742349222
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_195: -1873495875
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_235: -1519335789
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_133: 769410854
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_10: -2060614456
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_155: 903014874
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_255: -202046887
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_43: -873635519
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_64: 913917109
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_26: -843965454
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_176: 1583232402
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_174: 555613904
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_190: -1821027867
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_4: -35046659
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_71: 1045401793
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_229: -1694288755
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_55: -58313077
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_111: -223466737
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_178: 1947826790
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_243: 499510786
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_56: -1523440034
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_192: -1593599626
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_101: 1150156666
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_200: -601351839
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_161: -1443911912
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_18: 1391974007
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_28: 435089795
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_175: -133639131
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_47: -2134201210
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_12: 15922271
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_105: -1009387508
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_138: 938830529
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_259: 1786204075
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_254: 1978013034
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_233: 524101317
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_184: 121730239
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_185: 468278857
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_247: -1259987167
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_240: 1136247717
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_231: 329374390
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_37: 2097803246
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_219: -1421049233
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_227: 1088272067
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_124: 466450418
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_118: -20338596
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_166: -212530519
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_202: 285786018
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_130: -1376090135
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_29: -1391816300
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_157: 224973059
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_256: -1895481775
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_204: -1447202099
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_49: -414032460
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_228: -597083615
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_210: 1504842597
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_96: -1768859211
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_139: -1733192227
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_143: 1560546343
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_109: -949465766
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_148: 613306215
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_135: -99670869
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_156: 1127736953
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_48: 333790739
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_102: -1228541424
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_123: -358036834
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_236: -307414918
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_82: 978488791
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_136: -219912351
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_54: -185414470
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_159: 935781490
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_217: -982797030
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_153: -54408054
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_266: -1575557918
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_93: -529062168
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_150: 565491909
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_44: -1748178056
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_0: -897287448
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_84: 1861191485
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_162: -317748076
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_213: 44296226
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_205: 2087328555
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_76: 1130781242
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_129: -540454129
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_249: -1408467254
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_125: -1572164450
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_50: -1504402658
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_95: -1396376484
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_239: 2024946271
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_2: 803392355
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_191: -1782734159
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_222: -1075170625
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_145: 801531963
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_112: -75086375
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_251: -312647165
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_77: 1016843994
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_186: 311750098
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_183: 2113917721
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_260: 345919007
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_126: 1885996634
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_208: -1057448507
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_131: 918363989
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_160: -1088347823
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_38: 328032327
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_250: -580755021
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_108: -483798882
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_230: 1297297263
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_189: 616509963
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_170: -830227877
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_85: -1666546131
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_73: -1343156522
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_32: -661049322
+      NEC PC-9801 - Touhou Kaikidan Mystic Square - Bullets Items Particles_60: -1196274426
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
